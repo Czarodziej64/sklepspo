@@ -1,4 +1,4 @@
-<img src="zdjskl/Zrzut ekranu(6).png">
-<img src="zdjskl/Zrzut ekranu(7).png">
-<img src="zdjskl/Zrzut ekranu(8).png">
-<img src="zdjskl/Zrzut ekranu(9).png">
+<img src="zdjskl/z1.png">
+<img src="zdjskl/z2.png">
+<img src="zdjskl/z3.png">
+<img src="zdjskl/z4.png">
